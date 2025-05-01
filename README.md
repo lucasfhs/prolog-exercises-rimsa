@@ -51,18 +51,4 @@ This repository contains my implementations of 15 Prolog exercises focusing on l
 
 ## 📜 License
 
-This project is for educational purposes as part of academic coursework. Shared with permission of course staff.
-```
-
-Key features of this README:
-1. Clear badge showing Prolog language
-2. Organized list of all implemented exercises
-3. Simple usage instructions
-4. Important notes about constraints
-5. Academic honesty disclaimer
-6. Clean formatting for GitHub display
-
-Would you like me to add any specific details like:
-- Installation instructions for SWI-Prolog?
-- Example queries for each exercise?
-- Any particular academic requirements you need to highlight?
+This project is for educational purposes as part of academic coursework.
